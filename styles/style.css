@@ -68,6 +68,10 @@
     border-radius: 8px;
     font-size: large;
 }
+.right-side button>a{
+    text-decoration: none;
+    color: aliceblue;
+}
 @media screen and (min-width:576px) and (max-width:992px) {
     .responsive-section-container{
         display: grid;
